@@ -11,7 +11,7 @@ int main()
     Druha.vypisRovnicu();
     Tretia.vypisRovnicu();
     Stvrta.vypisRovnicu();
-
+    //kometar
     return 0;
 }
 
