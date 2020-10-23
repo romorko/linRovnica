@@ -1,0 +1,3 @@
+/home/roman/CLionProjects/MAP2020/linRovnica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/roman/CLionProjects/MAP2020/linRovnica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roman/CLionProjects/MAP2020/linRovnica/cmake-build-debug/CMakeFiles/linRovnica.dir
